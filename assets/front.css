@@ -1,0 +1,35 @@
+.budgetmailer-table, .budgetmailer-table thead, .budgetmailer-table tbody, .budgetmailer-table tr, .budgetmailer-table td, .budgetmailer-table th {
+    border: 0px;
+}
+
+.budgetmailer-subscribe h2 {
+    margin-top: 0!important;
+    margin-bottom: 0.5em!important;
+}
+.budgetmailer-subscribe-form {
+    padding-top: 0!important;
+}
+
+.budgetmailer-subscribe-form .budgetmailer-invalid {
+    color: red;
+}
+.budgetmailer-subscribe-form .budgetmailer-required {
+    border: 1px dashed red;
+}
+.budgetmailer-subscribe-form .budgetmailer-success {
+    color: green;
+}
+.budgetmailer-subscribe-form select {
+    width: 100%;
+}
+
+.budgetmailer-form-element #si_image {
+    padding-bottom: 0.33em;    
+}
+.budgetmailer-form-element .captchaImgRefresh {
+    display: none;
+}
+
+.budgetmailer-progress .budgetmailer-submit {
+    cursor: wait;
+}

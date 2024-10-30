@@ -1,0 +1,458 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: budgetmailer-sign-up-form\n"
+"POT-Creation-Date: 2016-04-06 12:00+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /media/raid/Home/Workspaces/Workspace/wp-budgetmailer/"
+"wordpress-latest2/wp-content/plugins/budgetmailer-sign-up-form\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: src/BudgetMailer/Wordpress/AdminMenu.php:71
+msgid "BudgetMailer Sign Up Form for WordPress"
+msgstr "BudgetMailer aanmeldformulier voor WordPress"
+
+#: src/BudgetMailer/Wordpress/AdminMenu.php:72
+msgid "BudgetMailer Sign Up"
+msgstr "BudgetMailer aanmeldformulier"
+
+#: src/BudgetMailer/Wordpress/Assets.php:71
+#, php-format
+msgid "Asset set %s not found."
+msgstr "Asset set %s niet gevonden."
+
+#: src/BudgetMailer/Wordpress/Captcha.php:115
+msgid "No CAPTCHA"
+msgstr "Geen CAPTCHA"
+
+#: src/BudgetMailer/Wordpress/Captcha.php:147
+msgid "What code is in the image?"
+msgstr "Welke code staat er in de afbeelding?"
+
+#: src/BudgetMailer/Wordpress/Captcha.php:199
+#: src/BudgetMailer/Wordpress/Captcha.php:223
+msgid ""
+"This question is for testing whether or not you are a human visitor and to "
+"prevent automated spam submissions."
+msgstr "De vraag is om te bepalen of je een menselijke bezoeker bent."
+
+#: src/BudgetMailer/Wordpress/Captcha.php:201
+msgid "Generating Really Simple CAPTCHA image failed."
+msgstr "Genereren Really Simple CAPTCHA afbeelding mislukt."
+
+#: src/BudgetMailer/Wordpress/Captcha.php:367
+msgid "You must set CAPTCHA plugin before rendering or validating."
+msgstr "Je moet de CAPTCHA plugin instellen voor het weergeven of valideren."
+
+#: src/BudgetMailer/Wordpress/Countries.php:30
+msgid "Select Country"
+msgstr "Selecteer land"
+
+#: src/BudgetMailer/Wordpress/Settings.php:209
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+#: src/BudgetMailer/Wordpress/Settings.php:212
+msgid "API endpoint"
+msgstr "API-eindpunt"
+
+#: src/BudgetMailer/Wordpress/Settings.php:213
+msgid ""
+"BudgetMailer API endpoint. Please don't change the URL unless you are "
+"instructed to."
+msgstr ""
+"BudgetMailer API-eindpunt. Verander de URL alleen als het je gevraagd wordt."
+
+#: src/BudgetMailer/Wordpress/Settings.php:215
+msgid "API key"
+msgstr "API-sleutel"
+
+#: src/BudgetMailer/Wordpress/Settings.php:216
+msgid "Insert your BudgetMailer API key."
+msgstr "Voer hier je BudgetMailer API-sleutel in."
+
+#: src/BudgetMailer/Wordpress/Settings.php:218
+msgid "API secret"
+msgstr "Geheime sleutel"
+
+#: src/BudgetMailer/Wordpress/Settings.php:219
+msgid "Insert your BudgetMailer API secret."
+msgstr "Voer hier je geheime sleutel in."
+
+#: src/BudgetMailer/Wordpress/Settings.php:221
+msgid "Default contact list"
+msgstr "Standaard contactenlijst"
+
+#: src/BudgetMailer/Wordpress/Settings.php:222
+msgid "Please select the BudgetMailer list you want to use with WordPress."
+msgstr ""
+"Selecteer de BudgetMailer lijst die je voor deze plugin wilt gebruiken."
+
+#: src/BudgetMailer/Wordpress/Settings.php:225
+msgid "Advanced settings"
+msgstr "Geavanceerde instellingen"
+
+#: src/BudgetMailer/Wordpress/Settings.php:228
+msgid "CAPTCHA plugin"
+msgstr "CAPTCHA plugin"
+
+#: src/BudgetMailer/Wordpress/Settings.php:229
+msgid "Please select one of the supported CAPTCHA plugins."
+msgstr "Selecteer één van de ondersteunde CAPTCHA plugins."
+
+#: src/BudgetMailer/Wordpress/Settings.php:231
+msgid "Supported features"
+msgstr "Ondersteunde opties"
+
+#: src/BudgetMailer/Wordpress/Settings.php:232
+msgid ""
+"Select the features you wish to enable this plugin for. Hold CTRL to enable "
+"multiple features."
+msgstr ""
+"Selecteer de opties waarvoor je de plugin in wilt schakelen. Houd CTRL "
+"ingedukt om meerdere opties te selecteren."
+
+#: src/BudgetMailer/Wordpress/Settings.php:234
+msgid "Subscription checkbox title"
+msgstr "Aanmelding checkbox titel"
+
+#: src/BudgetMailer/Wordpress/Settings.php:235
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:635
+msgid "Newsletter subscription"
+msgstr "Aanmelden nieuwsbrief"
+
+#: src/BudgetMailer/Wordpress/Settings.php:236
+msgid ""
+"This text will be displayed as a title above subscription checkbox in the "
+"comment and registration forms."
+msgstr ""
+"Deze tekst wordt als titel boven de aanmelding checkbox in het reactie- en "
+"registratieformulier weergegeven."
+
+#: src/BudgetMailer/Wordpress/Settings.php:238
+msgid "Subscription checkbox label"
+msgstr "Aanmelding checkbox label"
+
+#: src/BudgetMailer/Wordpress/Settings.php:239
+msgid "Subscribe"
+msgstr "Aanmelden"
+
+#: src/BudgetMailer/Wordpress/Settings.php:240
+msgid "This text will be displayed as a label of the subscription checkbox."
+msgstr ""
+"Deze tekst wordt als label van de aanmelding checkbox in het reactie- en "
+"registratieformulier weergegeven."
+
+#: src/BudgetMailer/Wordpress/Settings.php:242
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:639
+msgid "Tags"
+msgstr "Tags"
+
+#: src/BudgetMailer/Wordpress/Settings.php:243
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:638
+msgid ""
+"Comma separated list of default tags, that will be used to tag user during "
+"registration."
+msgstr ""
+"Geef hier tags op die je bij aanmelding aan het contact toe wilt voegen. "
+"Gebruik bij meerdere tags een komma om deze van elkaar te scheiden."
+
+#: src/BudgetMailer/Wordpress/Settings.php:245
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+#: src/BudgetMailer/Wordpress/Settings.php:246
+msgid ""
+"Time to live of local contact data for both modes. Please do not change this "
+"value unless you understand how this works."
+msgstr ""
+"Time to live van lokale contact data. Wijzig dit alleen als je hier verstand "
+"van hebt."
+
+#: src/BudgetMailer/Wordpress/Settings.php:286
+msgid "Comment form"
+msgstr "Reactieformulier"
+
+#: src/BudgetMailer/Wordpress/Settings.php:287
+msgid "User profile form"
+msgstr "Profielformulier"
+
+#: src/BudgetMailer/Wordpress/Settings.php:288
+msgid "Registration form"
+msgstr "Registratieformulier"
+
+#: src/BudgetMailer/Wordpress/Settings.php:289
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: src/BudgetMailer/Wordpress/Settings.php:290
+msgid "Widget"
+msgstr "Widget"
+
+#: src/BudgetMailer/Wordpress/Settings.php:374
+msgid "Select contact list"
+msgstr "Selecteer contactenlijst"
+
+#: src/BudgetMailer/Wordpress/Settings.php:385
+#, php-format
+msgid "Getting list of Contact Lists from BudgetMailer API failed (%s)."
+msgstr "Ophalen lijsten vanuit de BudgetMailer API mislukt (%s)."
+
+#: src/BudgetMailer/Wordpress/Settings.php:509
+msgid "Invalid End-Point URL."
+msgstr "Ongeldige API-URL."
+
+#: src/BudgetMailer/Wordpress/Shortcode.php:134
+msgid "Shortcode attribute widget_id is not set."
+msgstr "Shortcode eigenschap widget_id niet opgegeven."
+
+#: src/BudgetMailer/Wordpress/Shortcode.php:143
+#, php-format
+msgid "Widget id %d doesn't exist."
+msgstr "Widget id %d bestaat niet."
+
+#: src/BudgetMailer/Wordpress/Tag.php:57
+msgid "Generating Tag failed."
+msgstr "Genereren tag mislukt."
+
+#: src/BudgetMailer/Wordpress/Template.php:48
+#, php-format
+msgid "Converting template %s to string failed (%s)."
+msgstr "Converteren template %s naar string mislukt (%s)."
+
+#: src/BudgetMailer/Wordpress/Template.php:74
+msgid "Template not found."
+msgstr "Template niet gevonden."
+
+#: src/BudgetMailer/Wordpress/Template.php:94
+msgid "Template processing failed."
+msgstr "Verwerken template mislukt."
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:363
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:365
+msgid "BudgetMailer Sign Up Form widget"
+msgstr "BudgetMailer aanmeldformulier"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:422
+msgid "Form Settings"
+msgstr "Formulierinstellingen"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:436
+msgid "Form Fields"
+msgstr "Formuliervelden"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:437
+msgid "Drag and drop the field to change their order."
+msgstr "Sleep de velden om de volgorde te wijzigen."
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:443
+msgid "Displayed"
+msgstr "Weergegeven"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:444
+msgid "Required"
+msgstr "Verplicht"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:445
+msgid "Label"
+msgstr "Label"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:466
+msgid "To use this widget as shortcode use the following code:"
+msgstr ""
+"Om deze widget als shortcode te gebruiken, gebruik je de volgende code:"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:564
+msgid "Settings not found."
+msgstr "Instellingen niet gevonden."
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:577
+msgid "Uninitialized widget."
+msgstr "Widget niet geïnitializeerd."
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:622
+msgid "Email"
+msgstr "E-mail"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:623
+msgid "Company"
+msgstr "Bedrijfsnaam"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:624
+msgid "First name"
+msgstr "Voornaam"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:625
+msgid "Middle name"
+msgstr "Tussenvoegsel"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:626
+msgid "Last name"
+msgstr "Achternaam"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:627
+msgid "Sex"
+msgstr "Geslacht"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:628
+msgid "Telephone"
+msgstr "Telefoon"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:629
+msgid "Mobile"
+msgstr "Mobiel"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:630
+msgid "Address"
+msgstr "Adres"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:631
+msgid "Postal Code"
+msgstr "Postcode"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:632
+msgid "City"
+msgstr "Plaats"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:633
+msgid "Country"
+msgstr "Land"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:634
+msgid "Title"
+msgstr "Titel"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:636
+msgid "Submit label"
+msgstr "Aanmeldknop label"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:637
+msgid "Sign up"
+msgstr "Aanmelden"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:640
+msgid "HTML before sign up form"
+msgstr "HTML-code voor formulier"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:641
+msgid "HTML after sign up form"
+msgstr "HTML-code na formulier"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:642
+msgid "This field is required."
+msgstr "Dit veld is verplicht."
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:643
+msgid "Empty input field error"
+msgstr "Leeg veld foutmelding"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:644
+msgid "Please correct the form errors."
+msgstr "Wijzig de volgende fouten."
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:645
+msgid "Not valid form error"
+msgstr "Ongeldig foutmelding"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:646
+msgid "You have been successfully signed up to our newsletter."
+msgstr "Je hebt je met success aangemeld voor onze nieuwsbrief."
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:647
+msgid "Subscription success message"
+msgstr "Aanmelding succes melding"
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:648
+msgid ""
+"We are terribly sorry, but due to an unexpected error we couldn't sign you "
+"up for our newsletter."
+msgstr ""
+"Het spijt ons, maar door een onverwachte fout konden we je niet aanmelden."
+
+#: src/BudgetMailer/Wordpress/Widget/Subscribe.php:649
+msgid "Subscription error message"
+msgstr "Aanmelden foutmelding"
+
+#: view/options.php:5
+msgid "BudgetMailer API Settings"
+msgstr "BudgetMailer API-instellingen"
+
+#: view/subscribe.php:15
+msgid "BudgetMailer Newsletter Subscription requires JavaScript."
+msgstr "BudgetMailer "
+
+#: view/subscribe.php:74
+msgid "Select Sex"
+msgstr "Selecteer geslacht"
+
+#: view/subscribe.php:75
+msgid "Male"
+msgstr "Man"
+
+#: view/subscribe.php:76
+msgid "Female"
+msgstr "Vrouw"
+
+#~ msgid "Yes"
+#~ msgstr "Ja"
+
+#~ msgid "No API credential."
+#~ msgstr "Geen API inloggegevens."
+
+#~ msgid "Comment not found."
+#~ msgstr "Reactie niet gevonden."
+
+#~ msgid "Invalid CAPTCHA plugin."
+#~ msgstr "Ongeldige CAPTCHA plugin."
+
+#~ msgid ""
+#~ "We are terribly sorry, but due to an unexpected error we couldn't sign "
+#~ "you up for your newsletter."
+#~ msgstr ""
+#~ "Het spijt ons, maar door een onverwachte fout konden we je niet aanmelden "
+#~ "voor onze nieuwsbrief."
+
+#~ msgid "BudgetMailer API"
+#~ msgstr "BudgetMailer API"
+
+#~ msgid "Email label"
+#~ msgstr "E-mail label"
+
+#~ msgid "First name label"
+#~ msgstr "Voornaam label"
+
+#~ msgid "First name displayed"
+#~ msgstr "Voornaam weergeven"
+
+#~ msgid "First name required"
+#~ msgstr "Voornaam verplicht"
+
+#~ msgid "Middle name label"
+#~ msgstr "Tussenvoegsel label"
+
+#~ msgid "Middle name displayed"
+#~ msgstr "Tussenvoegsel weergeven"
+
+#~ msgid "Middle name required"
+#~ msgstr "Tussenvoegsel verplicht"
+
+#~ msgid "Last name label"
+#~ msgstr "Achternaam label"
+
+#~ msgid "Last name displayed"
+#~ msgstr "Achternaam weergeven"
+
+#~ msgid "Last name required"
+#~ msgstr "Achternaam verplicht"
+
+#~ msgid "You have been successfully signed up for our newsletter."
+#~ msgstr "Je hebt je met succes aangemeld voor onze nieuwsbrieven."
